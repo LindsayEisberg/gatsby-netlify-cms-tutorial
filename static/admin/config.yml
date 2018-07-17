@@ -1,5 +1,5 @@
 backend: 
-  name: gitub
+  name: github
   repo: LindsayEisberg/gatsby-netlify-cms-tutorial
 
 media_folder: static/assets
